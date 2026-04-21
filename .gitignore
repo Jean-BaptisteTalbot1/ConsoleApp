@@ -57,3 +57,8 @@ _ReSharper*/
 # Local settings (optional depending on your app)
 appsettings.Development.json
 .vs/ConsoleApp.slnx/v18/.suo
+ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.FileListAbsolute.txt
+.vs/ConsoleApp.slnx/v18/DocumentLayout.backup.json
+.vs/ConsoleApp.slnx/v18/DocumentLayout.json
+.vs/ConsoleApp.slnx/v18/.suo
+ConsoleApp/obj/Debug/net10.0/apphost.exe
