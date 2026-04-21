@@ -2,6 +2,8 @@
 # Build results
 bin/
 obj/
+*Debug/*
+*Release/*
 
 # Visual Studio files
 .vs/
@@ -54,3 +56,4 @@ _ReSharper*/
 
 # Local settings (optional depending on your app)
 appsettings.Development.json
+.vs/ConsoleApp.slnx/v18/.suo
